@@ -1,10 +1,9 @@
 === Plugin Name ===
 Contributors: EwirePayments
-Donate link: http://example.com/
 Tags: payment,module,woocommerce
 Requires at least: 2.0.2
-Tested up to: 2.1
-Stable tag: 4.3
+Tested up to: 3.3.1
+Stable tag: 1.0
 
 Ewire Payment Module for WooCoommerce makes it possible to accept payment from scandinavia
 
