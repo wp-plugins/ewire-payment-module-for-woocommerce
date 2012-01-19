@@ -1,0 +1,215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: gateways.ewiredirect.php:29
+#@ ewirepayment
+msgid "Ewire Direct"
+msgstr "Ewire Direct"
+
+#: gateways.ewiredirect.php:74
+#: gateways.ewiredirect.php:109
+#: gateways.ewiredirect.php:116
+#@ ewirepayment
+msgid "Ewire Direct Payment"
+msgstr "Ewire Direct Betaling"
+
+#: gateways.ewiredirect.php:75
+#@ ewirepayment
+msgid "With Ewire you can accept payments from following paymentcards: Dankort, Visa, Visa Electron, Mastercard, Maestro, Mastercard Direct. For danish customers it is also possible to deposit with netbanking. If you need help for the payment module, <a href=\"http://www.ewire.dk/en/module-support/ewire-payment-module-support.aspx\" target=\"_blank\">click here for a Payment module description</a>"
+msgstr "Med Ewire kan du acceptere betalinger fra følgende betalingskort: Dankort, Visa, Visa Electron, Mastercard, Maestro, Mastercard Direct. For danske brugere er det også muligt at indsætte via netbank. Hvis du har behov for yderligere hjælp til betalingsmodulet, <a href=\"http://www.ewire.dk/dk/module-support/ewire-payment-module-support.aspx\" target=\"_blank\">kan du klikke her og læse mere</a>"
+
+#: gateways.ewiredirect.php:86
+#@ ewirepayment
+msgid "Gateway Disabled"
+msgstr "Gateway er deaktiveret"
+
+#: gateways.ewiredirect.php:86
+#@ ewirepayment
+msgid "Ewire Direct does not support your store currency."
+msgstr "Ewire Direct understøtter ikke din webshop valuta"
+
+#: gateways.ewiredirect.php:100
+#@ ewirepayment
+msgid "Enable/Disable"
+msgstr "Aktivere/Deaktivere"
+
+#: gateways.ewiredirect.php:102
+#@ ewirepayment
+msgid "Enable Ewire Direct Payment"
+msgstr "Aktiver Ewire Direct Betaling"
+
+#: gateways.ewiredirect.php:106
+#@ ewirepayment
+msgid "Title"
+msgstr "Titel"
+
+#: gateways.ewiredirect.php:108
+#@ ewirepayment
+msgid "This controls the title which the user sees during checkout."
+msgstr "Dette kontroller titlen som kunden ser igennem ordre behandlingen."
+
+#: gateways.ewiredirect.php:112
+#@ ewirepayment
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: gateways.ewiredirect.php:115
+#@ ewirepayment
+msgid "Ewire is a secure real-time online bank transfer service and card service. Simply select Ewire and complete the on-screen instructions, and your payment will be received by the merchant."
+msgstr "Ewire er en sikker online bank og kort service. Vælg Ewire og udfyld de nødvendige og din betaling vil blive modtaget af erhvervskunden."
+
+#: gateways.ewiredirect.php:119
+#@ ewirepayment
+msgid "CompanyID"
+msgstr "CompanyID"
+
+#: gateways.ewiredirect.php:121
+#@ ewirepayment
+msgid "You can find your CompanyID on your Ewire account at the page Business."
+msgstr "Du kan finde dit CompanyID på din Ewire konto under fanebladet \\\"Erhverv\\\"."
+
+#: gateways.ewiredirect.php:122
+#@ ewirepayment
+msgid "XXXXXXX"
+msgstr "XXXXXXX"
+
+#: gateways.ewiredirect.php:125
+#@ ewirepayment
+msgid "EncryptionKey"
+msgstr "Krypteringsnøgle"
+
+#: gateways.ewiredirect.php:127
+#@ ewirepayment
+msgid "You can find your EncryptionKey on your Ewire account at the page Business."
+msgstr "Du kan finde din Krypteringsnøgle ved at vælge fanebladet \\\"Erhverv\\\" på din Ewire konto."
+
+#: gateways.ewiredirect.php:128
+#@ ewirepayment
+msgid "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
+msgstr "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
+
+#: gateways.ewiredirect.php:131
+#@ ewirepayment
+msgid "Ewire Lock E-mail"
+msgstr "Lås Brugerens E-mail"
+
+#: gateways.ewiredirect.php:133
+#@ ewirepayment
+msgid "This will lock the customer e-mail-adress through the payment process"
+msgstr "Dette vil låse brugerens e-mail igennem betalingsprocessen"
+
+#: gateways.ewiredirect.php:143
+#@ ewirepayment
+msgid "Ewire Autocapture"
+msgstr "Ewire Autocapture"
+
+#: gateways.ewiredirect.php:145
+#@ ewirepayment
+msgid "This is only permitted if the product is delivered instantly, this will authorize and capture the payment."
+msgstr "Dette er kun tilladt hvis produktet leveres digitalt. Dette vil autoriser og gennemføre betalingen automatisk."
+
+#: gateways.ewiredirect.php:149
+#: gateways.ewiredirect.php:167
+#@ ewirepayment
+msgid "Ewire Testmode"
+msgstr "Ewire Testmode"
+
+#: gateways.ewiredirect.php:151
+#@ ewirepayment
+msgid "With Testmode enabled you can test your webshop."
+msgstr "Med Testmode aktiveret kan du teste din Ewire integration."
+
+#: gateways.ewiredirect.php:155
+#@ ewirepayment
+msgid "Expire Days"
+msgstr "Udløbsdage"
+
+#: gateways.ewiredirect.php:157
+#@ ewirepayment
+msgid "Choose the number of days a payment should be active before automatically cancelled."
+msgstr "Vælg det antal af dage en betaling skal være aktiv før den automatisk annulleres."
+
+#: gateways.ewiredirect.php:161
+#@ ewirepayment
+msgid "Payment Subject"
+msgstr "Betalings Emne"
+
+#: gateways.ewiredirect.php:163
+#@ ewirepayment
+msgid "What will be shown in the Subject field on the Netpayment before the order id."
+msgstr "Hvad der skal vises i emne feltet i betalingsprocessen."
+
+#: gateways.ewiredirect.php:164
+#@ ewirepayment
+msgid "Order:"
+msgstr "Ordre:"
+
+#: gateways.ewiredirect.php:169
+#@ ewirepayment
+msgid "Enable Ewire testmode"
+msgstr "Aktiver Ewire Testmode"
+
+#: gateways.ewiredirect.php:276
+#@ ewirepayment
+msgid "Thank you for your order. We are now redirecting you to Ewire to make the payment."
+msgstr "Tak for din ordre. Du videresendes nu til Ewire for at gennemføre din betaling."
+
+#: gateways.ewiredirect.php:296
+#@ ewirepayment
+msgid "Pay via Ewire Direct"
+msgstr "Betal via Ewire Direct"
+
+#: gateways.ewiredirect.php:296
+#@ ewirepayment
+msgid "Cancel order &amp; restore cart"
+msgstr "Annuller ordren og genskab varekurven"
+
+#: gateways.ewiredirect.php:336
+#@ ewirepayment
+msgid "The payment was denied because the checksum validation failed."
+msgstr "Betaling blev afvist fordi checksum valideringen fejlede."
+
+#: gateways.ewiredirect.php:342
+#, php-format
+#@ ewirepayment
+msgid "Payment for order #%s failed"
+msgstr "Betalingen for ordre #%s fejlede"
+
+#: gateways.ewiredirect.php:388
+#@ ewirepayment
+msgid "You are being redirected to the Ewire Netpayment Window."
+msgstr "Du videresendes nu til Ewire Betalings vinduet."
+
+#: gateways.ewiredirect.php:399
+#@ ewirepayment
+msgid "Thank you for your order."
+msgstr "Tak for din ordre."
+
+#: gateways.ewiredirect.php:137
+#@ ewirepayment
+msgid "Ewire Payment Language"
+msgstr "Ewire Betalings sprog"
+
+#: gateways.ewiredirect.php:139
+#@ ewirepayment
+msgid "DA for Danish and en-gb for English."
+msgstr "DA for Dansk og en-gb for Engelsk"
+
