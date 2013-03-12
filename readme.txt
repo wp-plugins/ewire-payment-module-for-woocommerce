@@ -1,9 +1,9 @@
-=== Ewire Payment Module for WooCommerce ===
+=== Plugin Name ===
 Contributors: EwirePayments
-Tags: payment,module,woocommerce
+Tags: payment,module,woocommerce,ewire
 Requires at least: 2.0.2
-Tested up to: 3.3.1
-Stable tag: 1.0
+Tested up to: 3.5.1
+Stable tag: 1.1
 
 Ewire Payment Module for WooCoommerce makes it possible to accept payment from scandinavia
 
@@ -40,12 +40,18 @@ Have you checked that the payment domain is added to your Ewire account. This is
 
 == Changelog ==
 
+= 1.1 =
+* Update for Woocommerce 2.0
+* Languages and localization have been removed
+
 = 1.0 =
-* The first stable release.
+* The first stable release
 * Bugs corrected from version 1.0 Beta regarding languages and localization
 
-
 == Upgrade Notice ==
+
+= 1.1 =
+This version works with least Woocommerce 2.0
 
 = 1.0 =
 Bugs corrected from version 1.0 Beta regarding languages and localization.
