@@ -18,7 +18,7 @@ account at http://www.ewire.dk/create. Afterwards you are ready to receive payme
 Installation of the module
 
 
-1. Upload `gateways.ewiredirect.php` to the `/wp-content/plugins/` directory
+1. Upload folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Fill out the needed values in the WooCommerce Payment Gateways page
 
